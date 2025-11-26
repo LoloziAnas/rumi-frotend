@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI rumi",
+  "description": "A sophisticated AI art generation and visualization tool allowing users to design custom artwork and preview it in their own space.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
